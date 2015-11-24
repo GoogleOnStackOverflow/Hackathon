@@ -1,0 +1,31 @@
+{
+  "name": "NewsPaths",
+  "version": "1.0.0",
+  "description": "Hakathon in class",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^2.3.2",
+    "mongoose": "^4.2.6",
+    "re-base": "^1.2.2",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "restify": "^4.0.3"
+  },
+  "devDependencies": {
+    "babel-core": "^5.0.0",
+    "babel-loader": "^5.0.0",
+    "babel-plugin-react-transform": "^1.1.1",
+    "express": "^4.13.3",
+    "react-transform-catch-errors": "^1.0.0",
+    "react-transform-hmr": "^1.0.1",
+    "redbox-react": "^1.2.0",
+    "webpack": "^1.12.6",
+    "webpack-dev-middleware": "^1.2.0",
+    "webpack-hot-middleware": "^2.5.0"
+  }
+}
